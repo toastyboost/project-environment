@@ -13,3 +13,7 @@ package.json
     }
   }
  ```
+
+## todo
+
+- add editor config
